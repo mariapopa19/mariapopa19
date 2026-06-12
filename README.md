@@ -8,7 +8,7 @@ I build backend-heavy business applications. At work I'm part of an ERP platform
 - 🔄 Transitioned from QA to development — I write code *and* the tests that keep it honest
 - 🌱 Currently deepening: Spring Boot, modern Java, and PostgreSQL
 - 🚧 Side project: a personal **Spending Manager** — parsing Romanian bank statements (Revolut, BT Pay, George) into clean financial insights
-- ✉️ Reach me at [LinkedIn](https://www.linkedin.com/in/maria-popa-19549a243)
+- 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/maria-popa-19549a243)
 
 ---
 
